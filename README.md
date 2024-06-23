@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khangle136
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning AI/ML
+- 🌱 I’m currently learning AI/ML, DevOps
 - 💞️ I’m looking to collaborate on create AI ChatBot
 - 📫 vankhang7968@gmail.com
 
