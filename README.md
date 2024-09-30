@@ -1,5 +1,4 @@
-👨🏻‍💻 Website Developer | DevOps Specialist | AI Chatbot Enthusiast
-❤️ Tech Lover
+👨🏻‍💻 Website Developer
 💚 Lifelong Learner
 - 📫 vankhang7968@gmail.com
 
